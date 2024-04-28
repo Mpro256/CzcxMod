@@ -1,4 +1,4 @@
-package com.example.mixin;
+package com.github.mpro256.czcxmod.mixin;
 
 import net.minecraft.client.gui.GuiMainMenu;
 import org.spongepowered.asm.mixin.Mixin;
